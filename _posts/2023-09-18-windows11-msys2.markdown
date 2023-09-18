@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Ubah terminal Windows 11 menggunakan MSYS2"
+date:   2023-09-18 11:50:14 +0700
+categories: windows11
+---
+
+
