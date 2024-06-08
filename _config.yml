@@ -54,3 +54,6 @@ plugins:
 
 # https://www.seanbuscay.com/blog/jekyll-toc-markdown/
 markdown: kramdown
+
+# # https://redgreenrepeat.com/2019/05/31/guide-to-working-with-drafts-in-jekyll/
+# show_drafts: true
