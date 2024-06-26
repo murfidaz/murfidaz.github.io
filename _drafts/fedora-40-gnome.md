@@ -5,21 +5,21 @@
   `sudo dnf update && sudo dnf upgrade`
 
 - kemudian restat jika perlu
-- install tweaks via Aplikasi Software
+- install tweaks via Aplikasi Software (Repo: Fedora Linux)
 
   digunakan untuk merubah tampilan Gnome, seperti tema, icon dan cursor
 
-- install extention manager via Aplikasi Software
+- install extention manager via Aplikasi Software (Repo: Fedora Linux)
   - install Blur my Shell
   - install Dash to Dock
   - install System Monitor
   - install Tilling Shell
   - install User Themes
-- install gdm manager via Aplikasi Software
+- install gdm manager via Aplikasi Software (Repo: Fedora Linux)
 
   - ubah background login
 
-- install Mission Center via Aplikasi Software
+- install Mission Center via Aplikasi Software (Repo: Fedora Linux)
 
 - install Free dan Non Free Repository via Terminal [Sumber](https://rpmfusion.org/Configuration)
 
@@ -31,7 +31,7 @@
 
 - install VS Code via Terminal [Sumber](https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
 
-- install OBS Studio via Aplikasi Software
+- install OBS Studio via Aplikasi Software (Repo: Flathub)
 
   pilih install via repo Flathub, biar bisa install add-ons
 
@@ -39,7 +39,7 @@
 
     agar bsia buka view mkv, mp4 dkk
 
-- install Virtual Machine Manager via Aplikasi Software
+- install Virtual Machine Manager via Aplikasi Software (Repo: Fedora Linux)
 
 - install 1Password via Terminal
   [Sumber](https://support.1password.com/install-linux/#fedora-or-red-hat-enterprise-linux)
@@ -51,6 +51,22 @@
 
 - install migrate
   `sudo dnf install  migrate`
+
+- install Kdenlive via Software (Repo: Flathub)
+
+  aplikasi video editor
+
+- install GIMP via Software (Repo: Flathub)
+
+  aplikasi image editor (alternatif photoshop)
+
+- install Dia Diagram Editor via Software (Repo: Fedora Linux)
+
+  aplikasi untuk membuat diagram
+
+- install Eyedroper (Repo: Flathub)
+
+  aplikasi untuk color picker
 
 ## Ubah Tampilan
 
