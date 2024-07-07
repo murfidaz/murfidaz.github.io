@@ -26,3 +26,6 @@ namun setelah dideploy ke kubernete malah lemot sekali, jadi problemnya ada dima
 - Metricnya si rkdev
   https://cloud.google.com/monitoring/agent/ops-agent/otlp
   jadinya log aja, soalnya di google log bisa dijadikan metrik
+
+- perfomance classs gke
+  https://cloud.google.com/kubernetes-engine/docs/how-to/performance-pods#local-ssds-performance-class
