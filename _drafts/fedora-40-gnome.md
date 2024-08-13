@@ -68,6 +68,10 @@
 
   aplikasi untuk color picker
 
+- install docker engine via terminal
+
+  https://docs.docker.com/engine/install/fedora/
+
 ## Ubah Tampilan
 
 - Install Tema [Fluent](https://github.com/vinceliuice/Fluent-gtk-theme)
@@ -75,3 +79,4 @@
 - Install Icon [Tela Circle](https://github.com/vinceliuice/Tela-circle-icon-theme)
   `./install.sh`
 - semuanya diubah via Aplikasi Tweaks
+
