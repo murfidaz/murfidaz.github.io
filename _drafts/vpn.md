@@ -1,0 +1,1 @@
+- buat vpn di google menggunakan ip yang sudah ada
