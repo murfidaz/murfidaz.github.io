@@ -58,6 +58,12 @@ perintah ini digunakan jika kita menambah sesuatu pada file **Gemfile** seperti 
 bundle install 
 ```
 
+#### Membersihkan Proyek
+jika merasa website tidak ada perubahan bisa jalan kan perintah dibawah untuk membersihkan *cache*
+```
+bundle exec jekyll clean
+```
+
 #### Membangun Proyek
 digunakan untuk membangun proyek jekyll, yang nantinya akan membuat folder **_site**
 ```
