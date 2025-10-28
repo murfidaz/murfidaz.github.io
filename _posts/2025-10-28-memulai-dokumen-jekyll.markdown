@@ -3,7 +3,7 @@ layout: post
 title: "Memulai Perjalanan Mendokumentasi Pekerjaan Dengan Jekyll"
 date: 2025-10-28 21:22:00 +0700
 categories: jekyll
-tags: jekyll
+tags: [jekyll, blog]
 ---
 
 

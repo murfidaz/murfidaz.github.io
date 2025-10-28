@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="tag-page">
+    <h1>Posts tagged with “{{ page.tag }}”</h1>
+
+    {% assign tagged_posts = site.tags[page.tag] %}
+    {% if tagged_posts %}
+    <ul class="post-list">
+        {% for post in tagged_posts %}
+        <li>
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+            {% if post.excerpt %}
+            <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>No posts found with this tag.</p>
+    {% endif %}
+</div>
