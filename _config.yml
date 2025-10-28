@@ -33,7 +33,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll/tagging
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -58,9 +57,3 @@ plugins:
 markdown: kramdown
 # # https://redgreenrepeat.com/2019/05/31/guide-to-working-with-drafts-in-jekyll/
 # show_drafts: true
-
-# --- konfigurasi tambahan jekyll-tagging ---
-tag_page_dir: tag
-tag_page_layout: tag
-tag_permalink_style: pretty
-tag_permalink: /tag/:tag/

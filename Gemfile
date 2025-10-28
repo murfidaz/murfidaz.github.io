@@ -36,4 +36,3 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem 'csv'
 gem 'base64'
-gem "jekyll-tagging", "~> 1.1"
